@@ -2,3 +2,22 @@
     Component: Buttons
 */
 
+.btn {
+    background-color: black;
+    padding: 8px 12px;
+    border-radius: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.btn:hover {
+    
+}
+
+.btn-secondary {
+
+}
+
+.btn-alert {
+
+}
