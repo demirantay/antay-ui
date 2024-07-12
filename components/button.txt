@@ -1,0 +1,17 @@
+for docs
+
+.btn
+
+.btn-secondary
+
+.btn-alert
+
+.btn-outline
+
+.btn-ghost
+
+.btn-link 
+
+.btn-icon 
+
+.btn-with-icon 
